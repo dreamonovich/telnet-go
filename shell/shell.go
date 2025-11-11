@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/globalcyberalliance/telnet-go"
+	"github.com/dreamonovich/telnet-go"
 )
 
 const (
