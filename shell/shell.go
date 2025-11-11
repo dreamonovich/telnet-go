@@ -12,7 +12,7 @@ const (
 	DefaultCommandNotFound = ": command not found\n"
 	DefaultExitCommand     = "exit"
 	DefaultExitMessage     = "Goodbye!\r\n"
-	DefaultPrompt          = "$ "
+	DefaultPrompt          = "telnet>"
 	DefaultWelcomeMessage  = "\r\nWelcome!\r\n"
 )
 
